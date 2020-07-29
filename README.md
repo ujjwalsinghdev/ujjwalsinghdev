@@ -49,6 +49,6 @@
 <img alt="Ujjwal's Github Stats" src="https://github-readme-stats.vercel.app/api?username=ujjwalsinghdev&show_icons=true&hide_border=true" />
 
 [ujjwal singh]: https://ujjwalsingh.com
-[twitter]: https://twitter.com/ujjwalsighdev
-[instagram]: https://instagram.com/ujjwalsighdev
-[linkedin]: https://linkedin.com/in/ujjwalsighdev
+[twitter]: https://twitter.com/ujjwalsinghdev
+[instagram]: https://instagram.com/ujjwalsinghdev
+[linkedin]: https://linkedin.com/in/ujjwalsinghdev
