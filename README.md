@@ -1,15 +1,15 @@
-### Hi there, I'm [Ujjwal Singh]👋
+## Hi there, I'm [Ujjwal Singh]👋
 
-## I'm a UI/UX Designer & MERN Stack Developer.
+### UI Developer with focused in React ecosystem.
 
-- ➡ Co-Founder of [https://workfromhometoday.in]
+- ➡ Co-Creator of [https://workfromhometoday.in]
+- React UI Developer & UX lover having interest in Tech.
 - 👨‍💻Currently,working on much more exciting products that blends creativity and technology to impact and makes people’s lives easier.
 
 ### Connect with me:
 
 [<img align="left" alt="Ujjwal Singh | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="Ujjwal Singh | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="Ujjwal Singh | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 <br />
 
@@ -50,5 +50,4 @@
 
 [ujjwal singh]: https://ujjwalsingh.com
 [twitter]: https://twitter.com/ujjwalsinghdev
-[instagram]: https://instagram.com/ujjwalsinghdev
 [linkedin]: https://linkedin.com/in/ujjwalsinghdev
