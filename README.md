@@ -2,9 +2,8 @@
 
 ### UI Developer with focused in React ecosystem.
 
-- ➡ Co-Creator of [https://workfromhometoday.in]
-- React UI Developer & UX lover having interest in Tech.
-- 👨‍💻Currently,working on much more exciting products that blends creativity and technology to impact and makes people’s lives easier.
+- React UI Developer & UX designer having interest in Tech.
+- Currently, working on much more exciting products that blend creativity and technology to impact and makes people’s lives easier.
 
 ### Connect with me:
 
@@ -46,7 +45,7 @@
 
 ---
 
-<img alt="Ujjwal's Github Stats" src="https://github-readme-stats.vercel.app/api?username=ujjwalsinghdev&show_icons=true&hide_border=true" />
+<!-- <img alt="Ujjwal's Github Stats" src="https://github-readme-stats.vercel.app/api?username=ujjwalsinghdev&show_icons=true&hide_border=true" /> -->
 
 [ujjwal singh]: https://ujjwalsingh.com
 [twitter]: https://twitter.com/ujjwalsinghdev
